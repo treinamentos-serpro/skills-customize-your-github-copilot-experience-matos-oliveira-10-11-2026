@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-fastapi-apis",
+      "title": "Testing FastAPI APIs with pytest",
+      "description": "Write automated pytest tests for FastAPI endpoints, validation, and error responses.",
+      "path": "assignments/testing-fastapi-apis",
+      "dueDate": "2026-11-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
